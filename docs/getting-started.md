@@ -114,7 +114,7 @@ The `.claude/commands/` directory contains slash commands for Claude Code:
 
 ## Using References
 
-The `references/` directory contains supplementary checklists:
+The `references/` directory contains supplementary checklists and framework guides:
 
 | Reference | Use With |
 |-----------|----------|
@@ -122,6 +122,12 @@ The `references/` directory contains supplementary checklists:
 | `performance-checklist.md` | performance-optimization |
 | `security-checklist.md` | security-and-hardening |
 | `accessibility-checklist.md` | frontend-ui-engineering |
+| `dart-flutter-review-checklist.md` | code-review-and-quality |
+| `flutter-guidelines.md` | frontend-ui-engineering |
+| `nestjs-guidelines.md` | api-and-interface-design |
+| `typescript-guidelines.md` | api-and-interface-design, code-review-and-quality |
+| `karpathy-guidelines.md` | context-engineering, incremental-implementation |
+| `ui-foundation-guidelines.md` | frontend-ui-engineering |
 
 Load a reference when you need detailed patterns beyond what the skill covers.
 

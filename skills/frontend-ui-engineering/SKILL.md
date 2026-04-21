@@ -295,6 +295,8 @@ function useToggleTask() {
 ## See Also
 
 For detailed accessibility requirements and testing tools, see `references/accessibility-checklist.md`.
+For Flutter-specific architecture and performance guidance, see `references/flutter-guidelines.md`.
+For UI foundation rules (fonts, spacing, color tokens, shadcn), see `references/ui-foundation-guidelines.md`.
 
 ## Common Rationalizations
 

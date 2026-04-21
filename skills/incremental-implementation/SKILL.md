@@ -208,6 +208,10 @@ After each increment, verify:
 - [ ] The new functionality works as expected
 - [ ] The change is committed with a descriptive message
 
+## See Also
+
+For AI-assisted iteration and verification loop heuristics, see `references/karpathy-guidelines.md`.
+
 ## Common Rationalizations
 
 | Rationalization | Reality |

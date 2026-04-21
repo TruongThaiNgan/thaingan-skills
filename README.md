@@ -192,7 +192,7 @@ Pre-configured specialist personas for targeted reviews:
 
 ---
 
-## Reference Checklists
+## Reference Guides
 
 Quick-reference material that skills pull in when needed:
 
@@ -202,6 +202,12 @@ Quick-reference material that skills pull in when needed:
 | [security-checklist.md](references/security-checklist.md) | Pre-commit checks, auth, input validation, headers, CORS, OWASP Top 10 |
 | [performance-checklist.md](references/performance-checklist.md) | Core Web Vitals targets, frontend/backend checklists, measurement commands |
 | [accessibility-checklist.md](references/accessibility-checklist.md) | Keyboard nav, screen readers, visual design, ARIA, testing tools |
+| [dart-flutter-review-checklist.md](references/dart-flutter-review-checklist.md) | Dart/Flutter review checklist for rebuilds, null safety, linting, architecture |
+| [flutter-guidelines.md](references/flutter-guidelines.md) | Flutter architecture, state management, performance, routing, testing |
+| [nestjs-guidelines.md](references/nestjs-guidelines.md) | NestJS module boundaries, DTO validation, security, observability, testing |
+| [typescript-guidelines.md](references/typescript-guidelines.md) | Type safety baseline, domain modeling, runtime validation, tooling |
+| [karpathy-guidelines.md](references/karpathy-guidelines.md) | AI-assisted engineering heuristics for prompt design, execution, and verification loops |
+| [ui-foundation-guidelines.md](references/ui-foundation-guidelines.md) | UI foundations: font logic, spacing scale, semantic color tokens, shadcn usage, interaction states |
 
 ---
 
@@ -263,7 +269,7 @@ agent-skills/
 │   ├── shipping-and-launch/           #   Ship
 │   └── using-agent-skills/            #   Meta: how to use this pack
 ├── agents/                            # 3 specialist personas
-├── references/                        # 4 supplementary checklists
+├── references/                        # Supplementary checklists and framework guidelines
 ├── hooks/                             # Session lifecycle hooks
 ├── .claude/commands/                  # 7 slash commands
 └── docs/                              # Setup guides per tool

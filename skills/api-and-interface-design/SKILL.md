@@ -259,6 +259,11 @@ type UserId = string & { readonly __brand: 'UserId' };
 function getTask(id: TaskId): Promise<Task> { ... }
 ```
 
+## See Also
+
+- For TypeScript type modeling guidance, see `references/typescript-guidelines.md`
+- For NestJS API architecture and validation patterns, see `references/nestjs-guidelines.md`
+
 ## Common Rationalizations
 
 | Rationalization | Reality |

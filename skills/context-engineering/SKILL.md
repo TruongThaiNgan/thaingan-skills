@@ -261,6 +261,10 @@ This catches wrong directions before you've built on them. It's a 30-second inve
 | Implicit knowledge | Agent doesn't know project-specific rules | Write it down in rules files — if it's not written, it doesn't exist |
 | Silent confusion | Agent guesses when it should ask | Surface ambiguity explicitly using the confusion management patterns above |
 
+## See Also
+
+For practical AI-assisted execution heuristics and verification loops, see `references/karpathy-guidelines.md`.
+
 ## Common Rationalizations
 
 | Rationalization | Reality |
